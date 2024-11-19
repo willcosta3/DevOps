@@ -1,0 +1,6 @@
+comandos do git
+add para adicionar o arquivo
+commit para subir para servidor local\ commit -m "descriçao do arquivo"
+push para enviar para servidor remoto
+pull para buscar do servidor remoto para servidor local direto
+clone para clonar o arquivo do servidor remoto para a area de trabalho
